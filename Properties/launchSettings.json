@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IredesCheck": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/users/macaronikazoo/downloads/Atlas_MM_Salem_B5_S20_DRPlan.xml"
+    }
+  }
+}
